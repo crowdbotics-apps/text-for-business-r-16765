@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'text_for_business_r_16765.settings')
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "text_for_business_r_16765.settings")
 
 application = get_wsgi_application()
